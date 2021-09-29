@@ -1,1 +1,1 @@
-Hi, I'm Peter Havens. I'm a professional web developer, and if you'd like to hire me, you can [send me an email](mailto:peter.havens@gmail.com), or view my [LinkedIn profile](https://www.linkedin.com/in/peter-havens/).
+Hi, I'm Peter Havens. I'm an IT professional with experience in web development (e.g. JavaScript, Ruby, Python) and systems administration (e.g. Linux). If you'd like to hire me, you can [send me an email](mailto:peter.havens@gmail.com), or reach me on [LinkedIn profile](https://www.linkedin.com/in/peter-havens/).
