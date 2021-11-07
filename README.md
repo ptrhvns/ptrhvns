@@ -1,1 +1,1 @@
-Hi, I'm Peter Havens. I'm an IT professional with experience in web development (JavaScript, Python, et al.) and systems administration (Linux, et al.). If you'd like to hire me, you can [send me an email](mailto:peter.havens@gmail.com), or reach me on [LinkedIn](https://www.linkedin.com/in/peter-havens/).
+Hi, I'm Pete Havens. I'm a web developer, and a systems administrator. If you'd like to hire me, [send me an email](mailto:peter.havens@gmail.com), or find me on [LinkedIn](https://www.linkedin.com/in/peter-havens/).
