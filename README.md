@@ -1,1 +1,1 @@
-I’m an IT professional with many years of experience doing IT operations and software development. If you'd like to talk, [send me an email](mailto:peter.havens@gmail.com), or visit me on [LinkedIn](https://www.linkedin.com/in/peter-havens/).
+I'm an IT Professional with many years of progressive experience overseeing IT operations and software development. If you'd like to talk, [send me an email](mailto:peter.havens@gmail.com), or visit me on [LinkedIn](https://www.linkedin.com/in/peter-havens/).
